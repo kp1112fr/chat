@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.landing-wrapper{
+height: 1322px;
+width: 100%;
+background-color:  #0c1317;
+}
+
+.landing-wrapper-before{
+    height: 222px;
+    width: 100%;
+    background-color: #00a884;
+}
+.landing-header{
+    height: 39px;
+    width: 1000px;
+    margin: 27px auto 28px;
+    display: flex;
+    flex: none;
+    align-items: flex-start;
+}
+.logo-border{
+    height: 39px;
+    width: 39px;
+}
+.logo{
+    background-image: url(ig1.jpg);
+    background-size: cover;
+    height: 39px;
+    width: 100%;
+}
+.landing-header-title{
+    margin-left: 14px;
+   display: inline-block;
+   font-size: 14px;
+   font-weight: 500;
+   line-height: normal;
+   color: #fff;
+   text-transform: uppercase;
+   vertical-align: middle;
+   font: inherit;
+
+}
